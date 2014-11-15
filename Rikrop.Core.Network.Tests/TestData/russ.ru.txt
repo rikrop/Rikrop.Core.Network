@@ -1,0 +1,1686 @@
+<!-- -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-RU" lang="ru-RU" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head><!-- cache_ttl: -1 -->        
+		
+	                
+    <title>Главная - Русский журнал</title>
+
+    
+    
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta http-equiv="Content-language" content="ru-RU" />
+
+    
+        <meta name="copyright" content="FEP" />
+        <meta name="description" content="Электронный ресурс, посвященный рассмотрению мнений ведущих отечественных и зарубежных экспертов по проблемам, которые стоят перед современным миром." />
+        <meta name="keywords" content="Политика, мировая политика, общество, мировая повестка, проблемное поле, мировые лидеры, лидеры, государство, государства мира, Организация Объединенных Наций, Содружество Независимых Государств, постсоветское пространство, Соединенные Штаты Америки, ООН, СНГ, США, Россия, Европейский союз, ЕС, договор, переговоры, соглашение, саммит, глобализация, капитализм, проблема, проблема глобализации, проблема капитализма, сила, мягкая сила, жесткая сила, умная сила, Украина, Белоруссия, Латинская Америка, вооружение, крылатые ракеты, баллистические ракеты, послание, президент, премьер-министр, Юго-Восточная Азия, конфликт, этнический конфликт, война, горячая война, холодная война, дипломатия, кризис дипломатии, инструмент, элита, реализм, консерватизм, либерализм, век, новый век, банкротство, экономический кризис, кризис, военный кризис, сверхдержава, реализм, утопизм, социал-демократия, демократия, авторитаризм, авторитарный капитализм, партия, политическая партия, группа интересов, Медведев, Саркози, Обама, Центральная Азия, Ближний Восток, новый мировой порядок, порядок, бюрократия, Ялтинская система, Бреттон-вудская система, внешняя политика, внутренняя политика, интервенция, home policy, domestic policy, internal policy, foreign policy, policy, world policy, society, world agenda, problem field, world leaders, leaders, state, state of the world, United Nations, UN, Commonwealth of Independent States, CIS, United States of America, USA, Russia, European Union, EU, agreement, treaty, negotiations, talks, parley, summit, globalization, capitalism, problem, problem of globalization, problem of capitalism, power, soft power, hard power, smart power, Ukraine, Belorussia, Latin America, armament, cruise missile, ballistic missile, message, president, prime-minister, South-Eastern Asia, conflict, ethnic conflict, war, hot war, cold war, diplomacy, crisis of diplomacy, instrument, elite, realism, conservatism, liberalism, age, new age, bankruptcy, economic crisis, crisis, war crisis, superpower, realism, utopism, social-democracy, democracy, authoritarianism, authoritarian capitalism, party, political party, interest group, Medvedev, Sarkozi, Obama, Central Asia, Near East, new world order, order, bureaucracy, Yalta System, Bretton Wood system, foreign policy, internal policy, intervention" />
+        <meta name="verify-v1" content="PARctIBax0YpEDmrxln3Bejdi0KfJmHYJWwQgqJdir0=" />
+    
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+	<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?34"></script>
+
+
+    
+<link rel="Home" href="/" title="Главная страница Русский журнал" />
+<link rel="Index" href="/" />
+<link rel="Top"  href="/" title="Главная - Русский журнал" />
+<link rel="Search" href="/content/advancedsearch" title="Поиск Русский журнал" />
+
+
+<link rel="Alternate" href="/layout/set/print" media="print" title="Версия для печати" /><link rel="Alternate" type="application/rss+xml" title="RSS" href="/rss/feed/russ.rss" />
+
+<style type="text/css">
+    @import url(/design/russ/stylesheets/core.css);
+    @import url(/design/standard/stylesheets/debug.css);
+    @import url(/design/russ/stylesheets/pagelayout.css);
+    @import url(/design/russ/stylesheets/content.css);
+        @import url(/var/storage/packages/eZ-systems/ezwebin_design_gray/files/default/file/classes-colors.css);
+    @import url(/var/storage/packages/eZ-systems/ezwebin_design_gray/files/default/file/site-colors.css);
+
+    @import url("/design/russ/stylesheets/custom.css");
+</style>
+    <script language="JavaScript" type="text/javascript" src="/design/standard/javascript/tools/ezjsselection.js"></script>
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url({"stylesheets/browsers/ie5.css"|ezdesign(no)});    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url({"stylesheets/browsers/ie7lte.css"|ezdesign(no)}); </style> <![endif]-->
+
+
+</head>
+<body>
+<!-- Complete page area: START -->                        
+<div id="pagemenu" class="float-break">
+|<a href="http://russ.ru/"  onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage(document.location.href); return false;">Сделать стартовой</a>|<a href="/about">О проекте</a>|<a href="/subscribe">Подписка</a>|
+</div>
+
+
+<div id="page" class="nosidemenu rightcol section_id_1 subtree_level_0_node_id_2 current_node_id_2">
+<div id="header" class="float-break">
+<!-- <div id="logo_absolute"><a href="/"><img src="/design/russ/images/logo_russ_ru.gif" width="140" height="110" border="0" alt=""></a></div>
+ -->
+	<div id="header-design" class="float-break">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="193">		
+	<div id="logo"><a href="/"><img src="/design/russ/images/logo_russ_ru.gif" width="140" height="110" border="0" alt=""></a></div>
+	</td>
+	<td align="center"><!-- $morda_node_id: 2 -->
+
+
+<!--/* OpenX Javascript Tag v2.8.8 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.russ.ru/www/delivery/ajs.php':'http://ads.russ.ru/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=3");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.russ.ru/www/delivery/ck.php?n=a5454edc' target='_blank'><img src='http://ads.russ.ru/www/delivery/avw.php?campaignid=3&amp;n=a5454edc' border='0' alt='' /></a></noscript>
+
+</td>
+	<td width="220">
+		<div id="logo_en"><a href="/"><img src="/design/russ/images/logo_russ_en.gif" width="140" height="110" border="0" alt=""></a></div>
+	</td>
+</tr>
+</table>
+	</div>
+    
+  
+
+
+        
+    <div id="topmenu">
+    <div id="topmenu-design">
+        <ul><li><div class="spacing"><a href="/about">От редакции</a></div></li><li><div class="spacing"><a href="/Mirovaya-povestka">Мировая повестка</a></div></li><li><div class="spacing"><a href="/pole">Проблемное поле</a></div></li><li><div class="spacing"><a href="/pushkin">Журнал "Пушкин"</a></div></li><li><div class="spacing"><a href="/academ">Академическая страница</a></div></li>		
+
+<li ><div class="spacing"><a href="http://europublish.ru/">Издательство &quot;Европа&quot;</a></div></li>
+<li ><div class="spacing"><a href="http://magazines.russ.ru">Журнальный зал</a></div></li>
+<li class="last"><div class="spacing"><a href="http://old.russ.ru">Архивы</a></div></li>
+		</ul>
+        	<div class="break"></div>
+    </div>
+	</div>
+<hr class="hide" />
+
+
+
+</div>
+  <!-- Columns area: START -->
+  <div id="columns" class="float-break">
+    <!-- Main area: START -->
+    <div id="main-position">
+      <div id="main" class="float-break">
+        <div class="overflow-fix">
+          <!-- Main area content: START -->
+          
+
+
+
+
+
+
+<div class="content-view-full">
+	<div class="class-frontpage leftcolumn norightcolumn">
+
+<!-- list2_items: 7 -->
+	
+
+	<div class="attribute-top-column">
+		<div class="content-view-children">
+			<div id="hotblock">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="" id="td_hotcontent"><div id="hotcontent">
+		
+		
+<div class="content-view-line">
+	<div class="class-article float-break">
+		<h3><a href="/Mirovaya-povestka/Pochemu-Rossii-grozit-razorenie-i-nado-li-ob-etom-govorit-vsluh"><span class="author">
+
+	<span class="person">
+<span class="person-name">Кирилл Полтевский</span></span></span></a></h3>
+		<div class="attribute-short"><a href="/Mirovaya-povestka/Pochemu-Rossii-grozit-razorenie-i-nado-li-ob-etom-govorit-vsluh">
+
+
+<p>
+Так сложилось, что наши конкуренты в глобальной экономике являются в какой-то степени нашим начальством. Они считают более справедливым наше, а не свое разорение, и способ нас разорить у них есть – для этого им достаточно в разгар кризиса сделать нашу финансовую дыру явной для всех. 
+</p>
+</a></div>
+	</div>
+</div>
+		</div>
+	</td>
+	<td id="td_hotpic"><div id="hotpic">
+
+    
+        
+    
+                    <img src="/var/russ/storage/images/mirovaya-povestka/pochemu-rossii-grozit-razorenie-i-nado-li-ob-etom-govorit-vsluh/1319650-1-rus-RU/Pochemu-Rossii-grozit-razorenie-i-nado-li-ob-etom-govorit-vsluh_imagelarge.jpg" width="390" height="260"  style="border: 0px;" alt="" title="" />
+            
+    
+    
+    </div></td>
+</tr>
+<tr>
+	<td id="td_week_topic"><div id="week_topic">Тема дня</div></td>
+	<td id="td_topic_name">
+	<div id="topic_name"><a href="/Temy/Ekonomika">Экономика</a></div>	</td></tr></table>
+
+</div>
+		</div>
+	</div>
+<!-- /hotblock -->
+
+	<div class="columns-frontpage">
+		<div class="left-column-position">
+			<div class="left-column">
+			<!-- Left Content: START -->
+                   
+<h1 class="column-a-head"><a href="/Mirovaya-povestka">Мировая повестка</a></h1>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Kritika-politicheskogo-razuma">Критика политического разума</a></div>		<h2><a href="/Mirovaya-povestka/Putinskij-materik">Путинский материк</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Solomatin-Mihail">        <img src="/var/russ/storage/images/avtory/solomatin-mihail/1309237-1-rus-RU/Solomatin-Mihail_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Solomatin-Mihail">
+
+	<span class="person">
+<span class="person-name">Михаил Соломатин</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Putinskij-materik">
+
+
+<p>
+Главная проблема современной России – в спонсируемой Путиным государственной модели, при которой народ полностью лишается дееспособности, а опекунство над ним поручается кучке несменяемых лиц.
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Gorizont-soznaniya">Горизонт сознания</a></div>		<h2><a href="/Mirovaya-povestka/Intellektual-nyj-vkus-k-bytiyu-pohvala-Barbare-Kassen">Интеллектуальный вкус к бытию: похвала Барбаре Кассен</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/ZHendro-Massalu-Mishel">        <img src="/var/russ/storage/images/avtory/zhendro-massalu-mishel/1319609-1-rus-RU/ZHendro-Massalu-Mishel_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/ZHendro-Massalu-Mishel">
+
+	<span class="person">
+<span class="person-name">Мишель Жендро-Массалу</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Intellektual-nyj-vkus-k-bytiyu-pohvala-Barbare-Kassen">
+
+
+<p>
+В Серизи важны не идеи и не виды сами по себе. Серизи предоставляет всем слушателям зрителям участникам материальные условия, которые не раз оправдаются событием той мысли, каковой никто не слышал прежде, и иногда даже не ожидал и не думал ожидать
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Gorizont-soznaniya">Горизонт сознания</a></div>		<h2><a href="/Mirovaya-povestka/Kruglyj-stol-Estetizaciya-povsednevnosti-definicii-tendencii-perspektivy">Круглый стол &quot;Эстетизация повседневности: дефиниции, тенденции, перспективы&quot; </a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/YUliya-Bedash-Mihail-Mayackij-Vitalij-Kurennoj-Il-ya-Inishev">        <img src="/var/russ/storage/images/mirovaya-povestka/kruglyj-stol-estetizaciya-povsednevnosti-definicii-tendencii-perspektivy/1319501-1-rus-RU/Kruglyj-stol-Estetizaciya-povsednevnosti-definicii-tendencii-perspektivy_listitem.jpg" width="65" height="43"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/YUliya-Bedash-Mihail-Mayackij-Vitalij-Kurennoj-Il-ya-Inishev">
+
+	<span class="person">
+<span class="person-name">Виталий Куренной, Илья Инишев, Юлия Бедаш, Михаил Маяцкий</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Kruglyj-stol-Estetizaciya-povsednevnosti-definicii-tendencii-perspektivy">
+
+
+<p>
+Почему политический выбор оказывается эстетическим выбором?
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>
+<!-- Comics Start -->
+
+
+         <div class="content-view-frontpage float-break" id="frontpage-video">
+	<div class="class-article">
+		<div class="attribute-short float-break">
+
+
+<p>
+			<object width="290" height="200">
+    <param name="movie" value="http://www.youtube.com/v/4y0SFkePnEo"></param>
+    <embed src="http://www.youtube.com/v/4y0SFkePnEo" type="application/x-shockwave-flash" width="290" height="200" ></embed>
+</object>
+
+
+</p>
+
+<p>
+Выступление<b> Александра Морозова</b> на молодежном форуме &quot;Лаборатория Пилорама 2012&quot;
+</p>
+</div>	</div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Obschestvennyj-klimat">Общественный климат</a></div>		<h2><a href="/Mirovaya-povestka/Dialog-o-politicheskoj-nastorozhennosti">Диалог о политической настороженности</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Vajzer-Tat-yana">        <img src="/var/russ/storage/images/avtory/vajzer-tat-yana/1300654-5-rus-RU/Vajzer-Tat-yana_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Vajzer-Tat-yana">
+
+	<span class="person">
+<span class="person-name">Татьяна Вайзер</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Dialog-o-politicheskoj-nastorozhennosti">
+
+
+<p>
+У нас какой-то слабый, вялый, пассивный, стихийный, агрессивный, неконструктивный, юридически не подкрепленный континуум гражданского политического самосознания и самовыражения, оставшийся нам в наследство после рухнувших советских догм и авторитетов. 
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Obschestvennyj-klimat">Общественный климат</a></div>		<h2><a href="/Mirovaya-povestka/Obschestvennaya-zhizn-v-osobo-tyazhelyh-formah">Общественная жизнь в особо тяжелых формах</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Morozov-Aleksandr">        <img src="/var/russ/storage/images/avtory/morozov-aleksandr/10431-6-rus-RU/Morozov-Aleksandr_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Morozov-Aleksandr">
+
+	<span class="person">
+<span class="person-name">Александр Морозов</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Obschestvennaya-zhizn-v-osobo-tyazhelyh-formah">
+
+
+<p>
+Мы все чувствуем, что в этом новом &quot;публичном пространстве&quot; слишком много &quot;ада&quot; и слишком мало &quot;респектабельности&quot;. Слишком мало людей с крепким здравомыслием. 
+</p>
+
+<p>
+ 
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Pussy-riot">Pussy riot</a></div>		<h2><a href="/Mirovaya-povestka/Zahar-Maj-o-Pussy-Riot-pravoslavii-duhovnosti-i-SHevchuke">Захар Май о Pussy Riot, православии, духовности и Шевчуке</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Maj-Zahar">        <img src="/var/russ/storage/images/avtory/maj-zahar/1319034-1-rus-RU/Maj-Zahar_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Maj-Zahar">
+
+	<span class="person">
+<span class="person-name">Захар Май</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Zahar-Maj-o-Pussy-Riot-pravoslavii-duhovnosti-i-SHevchuke">
+
+
+<p>
+Мне достаточно дописать любую из трех песен, которые я дописал до половины, чтобы вообще у вас все поменялось. Но я этого не могу сделать, потому что не знаю, в какую сторону их дописывать.
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Kritika-politicheskogo-razuma">Критика политического разума</a></div>		<h2><a href="/Mirovaya-povestka/Mezhdu-91-ym-i-93-ym-navsegda">Между 91-ым и 93-ым навсегда</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Mitrofanov-Sergej">        <img src="/var/russ/storage/images/avtory/mitrofanov-sergej/10263-7-rus-RU/Mitrofanov-Sergej_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="Mitrofanov Sergey" title="Mitrofanov Sergey" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Mitrofanov-Sergej">
+
+	<span class="person">
+<span class="person-name">Сергей Митрофанов</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Mezhdu-91-ym-i-93-ym-navsegda">
+
+
+<p>
+Никто не понимал, что происходит, кто с кем спорил и за что. У них не оставалось уважения к свершившемуся в августе 91-го, они не знали, от чего уходили, и, тем более, не знали, к чему приближались. Самое печальное, что все это может снова повториться.
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Obschestvennyj-klimat">Общественный климат</a></div>		<h2><a href="/Mirovaya-povestka/Esli-za-nami-pridut">Если за нами придут</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Solomatin-Mihail">        <img src="/var/russ/storage/images/avtory/solomatin-mihail/1309237-1-rus-RU/Solomatin-Mihail_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Solomatin-Mihail">
+
+	<span class="person">
+<span class="person-name">Михаил Соломатин</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Esli-za-nami-pridut">
+
+
+<p>
+Мы попались в ту же ловушку, что и Запад. Исторический вызов и там и тут воспринимается уже просто как досадная помеха – как это и должно восприниматься в обществе потребления.
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Problemy-obrazovaniya">Проблемы образования</a></div>		<h2><a href="/Mirovaya-povestka/Strana-Sovetov-ili-kak-nam-reorganizovat-obrazovanie">Страна Советов, или как нам реорганизовать образование</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Ivanova-Gladil-schikova-Natal-ya">        <img src="/var/russ/storage/images/avtory/ivanova-gladil-schikova-natal-ya/320161-2-rus-RU/Ivanova-Gladil-schikova-Natal-ya_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Ivanova-Gladil-schikova-Natal-ya">
+
+	<span class="person">
+<span class="person-name">Наталья Иванова-Гладильщикова</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Strana-Sovetov-ili-kak-nam-reorganizovat-obrazovanie">
+
+
+<p>
+Деятельность школы и работа учителей оцениваются только исходя из формальных показателей. Видимо, чиновникам так проще. Доходит до полного абсурда. 
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+															<div class="attribute-topic">    <a href="/Temy/Gorizont-soznaniya">Горизонт сознания</a></div>		<h2><a href="/Mirovaya-povestka/Luna-park-social-nost-na-garantii">Луна-парк: социальность на гарантии</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/Kralechkin-Dmitrij">        <img src="/var/russ/storage/images/avtory/kralechkin-dmitrij/4054-6-rus-RU/Kralechkin-Dmitrij_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/Kralechkin-Dmitrij">
+
+	<span class="person">
+<span class="person-name">Дмитрий Кралечкин</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Luna-park-social-nost-na-garantii">
+
+
+<p>
+И &quot;Ну, погоди&quot;, и &quot;Том и Джерри&quot; отвечают на один вопрос – что именно не позволяет Хищнику съесть свою Жертву, что ему мешает и почему один никогда не может поймать другого. Но эти ответы – совершенно разные. 
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>	
+
+<div class="content-view-line column-a">
+	<div class="class-article float-break">
+	
+										<h2><a href="/Mirovaya-povestka/Vol-nyj-ganzejskij-gorod">Вольный ганзейский город</a></h2>
+		<div class="attribute-short float-break" style="clear: left;">
+		
+					
+			<div class="attribute-image">
+
+    
+        
+    
+            <a href="/avtory/SHtepa-Vadim">        <img src="/var/russ/storage/images/avtory/shtepa-vadim/987465-2-rus-RU/SHtepa-Vadim_listitem.jpg" width="65" height="65"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+    </div>			<h4><a href="/avtory/SHtepa-Vadim">
+
+	<span class="person">
+<span class="person-name">Вадим Штепа</span></span></a></h4>
+			<a href="/Mirovaya-povestka/Vol-nyj-ganzejskij-gorod">
+
+
+<p>
+Советские здания легли на немецкую планировку города – на улочках, выложенных брусчаткой, выросли хрущёвки. Но Кёнигсберг прорастает в городе – через черепичные крыши, через узкую трамвайную колею, через проступающие надписи на домах. 
+</p>
+</a>    	</div>
+
+
+
+    </div>
+</div>
+                <!-- Left Content: END -->
+            </div>
+        </div>
+        <div class="center-column-position">
+            <div class="center-column">
+                <div class="overflow-fix">
+                <!-- Center Content: START -->
+                    
+                    <h1 class="column-a-head"><a href="/pole">Проблемное поле</a></h1>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Starozyatcevskoe-kraevedenie">Старозятцевское краеведение</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Minorovskij-Aleksej">Алексей Миноровский</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Starozyatcevskoe-kraevedenie">        <img src="/var/russ/storage/images/pole/starozyatcevskoe-kraevedenie/1319691-1-rus-RU/Starozyatcevskoe-kraevedenie_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Иному современному городскому жителю, привыкшему к потреблению как смыслу жизни, сложно понять все эти краеведческие заботы. В ком-то статья вызовет отторжение, в ком-то даже злобу. Человек потребления привыкает получать только удобоваримое и приятное. 
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Udarim-avtoprobegom-po-politicheskoj-apatii-i-diktature!">Ударим автопробегом по политической апатии и диктатуре! </a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Mitrofanov-Sergej">Сергей Митрофанов</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Udarim-avtoprobegom-po-politicheskoj-apatii-i-diktature!">        <img src="/var/russ/storage/images/pole/udarim-avtoprobegom-po-politicheskoj-apatii-i-diktature!/1319680-1-rus-RU/Udarim-avtoprobegom-po-politicheskoj-apatii-i-diktature!_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+О перестройке-2 нам свидетельствует повторяемость методов. Выборы в КС оппозиции, за которые агитирует Пономарев, как в конце восьмидесятых, грозят снова вылиться в локальную борьбу фриков за несуществующую &quot;власть&quot;. 
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Svyaschennik-suditsya-so-svoej-eparhiej">Священник судится со своей епархией</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Desnickij-Andrej">Андрей  Десницкий</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Svyaschennik-suditsya-so-svoej-eparhiej">        <img src="/var/russ/storage/images/pole/svyaschennik-suditsya-so-svoej-eparhiej/1319556-1-rus-RU/Svyaschennik-suditsya-so-svoej-eparhiej_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Он пережил слишком много, чтобы теперь кого-то бояться и кому-то угождать. А главное, он убедился на примере правозащитного движения: капля камень точит. 
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Utopiya-sozdavaemaya-iz-real-nosti">Утопия, создаваемая из реальности</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/de-Graaf-Rejnir">Рейнир де Грааф</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Utopiya-sozdavaemaya-iz-real-nosti">        <img src="/var/russ/storage/images/pole/utopiya-sozdavaemaya-iz-real-nosti/1319575-1-rus-RU/Utopiya-sozdavaemaya-iz-real-nosti_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Наш проект – попытка воспроизвести утопию в заданных обстоятельствах. Нужно понять, что необходимо применить в этой, казалось бы, случайной ситуации, чтобы она стала утопической. Это попытка привнести утопию в существующее и превратить труху в золото. 
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line" id="onguard">
+	<div class="class-article float-break">
+					<div class="attribute-image"><img src="/var/russ/storage/images/onefoto/osen-yu-v-yuzhnoj-bogemii.-madrigaly-v-staroj-ratushe/1319636-1-rus-RU/Osen-yu-v-YUzhnoj-Bogemii.-Madrigaly-v-staroj-ratushe_onephoto_thumbnail.jpg" height="320" /></div>    <div class="one_photo_frame"></div>
+    <a class="one_photo_frame_link" href="/onefoto/Osen-yu-v-YUzhnoj-Bogemii.-Madrigaly-v-staroj-ratushe"></a>
+    <div class="one_photo_caption">
+		<div class="one_photo_caption_text">
+			<a href="/avtory/Morozov-Aleksandr" class="one_photo_author">
+
+	<span class="person">
+<span class="person-name">Александр Морозов</span></span></a>			<div class="attribute-short float-break">
+
+<a href="/onefoto/Osen-yu-v-YUzhnoj-Bogemii.-Madrigaly-v-staroj-ratushe">
+<p>
+На фото: Концерт Collegium 419 в Таборе (Южная Чехия)
+</p>
+</a></div>		</div>
+	</div>
+	<div class="one_photo_date">23 сентября</div>
+	</div>
+</div>
+	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Konec-istorii">Конец истории</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Sutyagin-Konstantin">Константин  Сутягин</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Konec-istorii">        <img src="/var/russ/storage/images/pole/konec-istorii/1319523-1-rus-RU/Konec-istorii_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Если хочешь добиться успеха, то память-история только мешают. Не сломаешь старый дом, чтоб построить на его месте торговый центр — если вспомнишь, что бегал тут в детстве, яблоки рвал.
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Smert-est-smerti-net">Смерть есть смерти нет</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Kas-yanova-Ol-ga">Ольга Касьянова</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Smert-est-smerti-net">        <img src="/var/russ/storage/images/pole/smert-est-smerti-net/1319512-1-rus-RU/Smert-est-smerti-net_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Уйти с двадцатой минуты фильма &quot;Жить&quot; значит избавить себя от чего-то по-настоящему страшного, что уже никак не связано с брезгливостью или нетерпением сердца. 
+</p>
+
+    </div>
+    
+    </div>
+</div>	
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+    <h2><a href="/pole/Osennij-fal-start">Осенний фальстарт</a></h2>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Mitrofanov-Sergej">Сергей Митрофанов</a></span></span>	</p>
+	</div>
+	
+
+	                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="/pole/Osennij-fal-start">        <img src="/var/russ/storage/images/pole/osennij-fal-start/1319468-4-rus-RU/Osennij-fal-start_imagefrontpagewide.jpg" width="390" height="170"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        
+
+
+		
+			
+
+		
+        <div class="attribute-short float-break">
+        
+
+
+<p>
+Cитуация социальной недоразвитости и институциональной недостроенности явно не разрешается. Власть борется с оппозицией, но прекрасно понимает, что без оппозиции вряд ли справится с &quot;проклятым списком проблем&quot;. 
+</p>
+
+    </div>
+    
+    </div>
+</div>
+
+                <!-- Center Content: END -->
+                </div>
+            </div>
+        </div>
+        <div class="right-column-position">
+            <div class="right-column">
+                  
+            </div>
+        </div>
+    </div>
+
+    <div class="attribute-bottom-column">
+        
+    </div>
+
+    </div>
+</div>
+
+          <!-- Main area content: END -->
+        </div>
+      </div>
+    </div>
+    <!-- Main area: END -->    <div id="rightcol-position"><!-- Right Column area: START -->
+      <div id="rightcol">
+	  	
+<div id="newscol">
+
+
+
+    
+	 
+    
+        <div class="content-view-children float-break">
+             
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Rokovaya-muza-russkogo-shul-ginovedeniya">        <img src="/var/russ/storage/images/news/aleksandr-kotov-o-knige-d.i.babkova/1319723-2-rus-RU/Aleksandr-Kotov-o-knige-D.I.Babkova_articleimage.jpg" width="184" height="244"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Rokovaya-muza-russkogo-shul-ginovedeniya">Александр Котов о книге Д.И.Бабкова &quot;Государственные и национальные проблемы в мировоззрении В.В. Шульгина в 1917-1939 гг&quot; </a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Razgovory-v-Serizi-lya-Sall">        <img src="/var/russ/storage/images/news/razgovory-v-serizi-lya-sall/1319765-1-rus-RU/Razgovory-v-Serizi-lya-Sall_articleimage.jpg" width="184" height="123"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Razgovory-v-Serizi-lya-Sall">Александр Марков. Разговоры в Серизи-ля-Салль</a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Promezhutochnyj-Rozanov">        <img src="/var/russ/storage/images/news/andrej-teslya-o-publicistike-vasiliya-rozanova/1319623-1-rus-RU/Andrej-Teslya-o-publicistike-Vasiliya-Rozanova_articleimage.jpg" width="184" height="244"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Promezhutochnyj-Rozanov">Андрей Тесля о публицистике Василия Розанова 1900-х гг. </a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+
+
+
+
+
+        <div class="attribute-short">
+        
+
+
+<p>
+<a href="http://russ.ru/Mirovaya-povestka/Kto-rulit-istoriej-Politicheskij-spros-i-politicheskoe-predlozhenie-v-usloviyah-gibridnogo-rezhima" target="_self"><b>26 сентября, 19:00.</b> Московская высшая школа социальных и экономических наук. Лекция Кирилла Рогова <b>&quot;Кто рулит историей? Политический спрос и политическое предложение в условиях гибридного режима&quot;</b> в рамках спецпроекта &quot;Открытая среда&quot;.</a>
+</p>
+
+    </div>
+    
+    </div>
+</div>                          <div class="separator">&nbsp;</div>                  
+
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+
+
+
+
+
+        <div class="attribute-short">
+        
+
+
+<p>
+<a href="http://www.shpl.ru/shpage.php?menu=480&amp;b_base=events" target="_self"><b>27 сентября, 15:00.</b> Государственная публичная историческая библиотека России. Круглый стол <b>&quot;Источники новейшего времени: взаимодействие хранителей и исследователей материалов по истории России&quot;</b></a>
+</p>
+
+    </div>
+    
+    </div>
+</div>                          <div class="separator">&nbsp;</div>                  
+
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+
+
+
+
+
+        <div class="attribute-short">
+        
+
+
+<p>
+<a href="http://russ.ru/Mirovaya-povestka/Nauchno-prakticheskaya-konferenciya-YAzyki-obschestvennyh-nauk" target="_self"><b>26-28 октября 2012 года.</b> Философско-социологический факультет РАНХиГС при Президенте РФ. Научно-практическая конференция <b>&quot;Языки общественных наук&quot;</b></a>
+</p>
+
+    </div>
+    
+    </div>
+</div>                          <div class="separator">&nbsp;</div>                  
+
+
+<div class="content-view-line">
+    <div class="class-article float-break">
+
+
+
+
+
+
+        <div class="attribute-short">
+        
+
+
+<p>
+<a href="http://russ.ru/Mirovaya-povestka/IV-Mezhdunarodnyj-simpozium-Russkaya-slovesnost-v-mirovom-kul-turnom-kontekste" target="_self"><b>14–18 декабря.</b> Фонд Достоевского. IV Международный симпозиум <b>&quot;Русская словесность в мировом культурном контексте&quot;</b></a>
+</p>
+
+    </div>
+    
+    </div>
+</div>                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Zabyt-i-ponyat">        <img src="/var/russ/storage/images/news/aleksandr-ulanov-o-knige-vladimira-kazakova-madlon/1319590-1-rus-RU/Aleksandr-Ulanov-o-knige-Vladimira-Kazakova-Madlon_articleimage.jpg" width="169" height="250"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Zabyt-i-ponyat">Александр Уланов о книге Владимира Казакова &quot;Мадлон&quot; </a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Posle-tradicii">        <img src="/var/russ/storage/images/news/andrej-teslya-o-rabotah-yaakova-kaca/1319483-1-rus-RU/Andrej-Teslya-o-rabotah-YAakova-Kaca_articleimage.jpg" width="184" height="146"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Posle-tradicii">Андрей Тесля о работах Яакова Каца &quot;Традиция и кризис&quot; и &quot;Исход из гетто&quot; </a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Dzhojs-v-setke-Dyurera-v-nabroske-Al-berti">        <img src="/var/russ/storage/images/news/aleksandr-markov-o-vozmozhnyh-sposobah-perevodit-poslednyuyu-knigu-dzhojsa/1319364-1-rus-RU/Aleksandr-Markov-o-vozmozhnyh-sposobah-perevodit-poslednyuyu-knigu-Dzhojsa_articleimage.jpg" width="184" height="250"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Dzhojs-v-setke-Dyurera-v-nabroske-Al-berti">Александр Марков о возможных способах переводить последнюю книгу Джойса</a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Rossiya-kotoraya-vsegda-s-toboj">        <img src="/var/russ/storage/images/news/sergej-kostyrko-o-knige-samuila-lur-e-izlomannyj-arshin/1319367-1-rus-RU/Sergej-Kostyrko-o-knige-Samuila-Lur-e-Izlomannyj-arshin_articleimage.jpg" width="184" height="250"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Rossiya-kotoraya-vsegda-s-toboj">Сергей Костырко о книге Самуила Лурье &quot;Изломанный аршин&quot; </a>    </div>
+    
+    </div>
+</div>
+                          <div class="separator">&nbsp;</div>                  
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://russ.ru/Mirovaya-povestka/Prorok-segodnya-bol-she-chem-prorok">        <img src="/var/russ/storage/images/news/anatolij-denisenko-o-knige-uoltera-bryuggemana/1319263-2-rus-RU/Anatolij-Denisenko-o-knige-Uoltera-Bryuggemana_articleimage.jpg" width="184" height="249"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://russ.ru/Mirovaya-povestka/Prorok-segodnya-bol-she-chem-prorok">Анатолий Денисенко о книге Уолтера Брюггемана &quot;Пророческое воображение&quot; </a>    </div>
+    
+    </div>
+</div>
+             
+    </div>
+    <!-- $current_node.class_identifier: frontpage -->
+<div class="adblock">
+
+</div>
+
+</div> <!-- / #newscol -->
+<div id="extracol">
+    
+
+
+
+
+ 
+<div class="content-view-children float-break" id="best">
+<h1 class="column-d-head">Лучшие публикации</h1>
+
+      				
+<div class="content-view-listitem">
+    <div class="class-article float-break">
+
+        
+    <h3><a href="/Mirovaya-povestka/Luna-park-social-nost-na-garantii">Луна-парк: социальность на гарантии</a></h3>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Kralechkin-Dmitrij">Дмитрий Кралечкин</a></span></span>	</p>
+	</div>
+	
+    </div>
+</div>
+
+      				
+<div class="content-view-listitem">
+    <div class="class-article float-break">
+
+        
+    <h3><a href="/Mirovaya-povestka/Muzyka-vyslushavshaya-sebya">Музыка, выслушавшая себя</a></h3>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Hruscheva-Nastas-ya">Настасья Хрущева</a></span></span>	</p>
+	</div>
+	
+    </div>
+</div>
+
+      				
+<div class="content-view-listitem">
+    <div class="class-article float-break">
+
+        
+    <h3><a href="/pole/ZHizhek-i-Patriarh">Жижек и Патриарх</a></h3>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Hramov-Aleksandr">Александр Храмов</a></span></span>	</p>
+	</div>
+	
+    </div>
+</div>
+
+      				
+<div class="content-view-listitem">
+    <div class="class-article float-break">
+
+        
+    <h3><a href="/pole/Kazhdaya-novaya-kniga-trebuet-novogo-izobrazitel-nogo-yazyka">Каждая новая книга требует нового изобразительного языка</a></h3>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Gerchuk-Elena">Елена Герчук</a></span></span>	</p>
+	</div>
+	
+    </div>
+</div>
+
+      				
+<div class="content-view-listitem last">
+    <div class="class-article float-break">
+
+        
+    <h3><a href="/Mirovaya-povestka/Begstvo-v-nesvobodu">Бегство в несвободу</a></h3>
+
+		<div class="attribute-byline">
+	<p class="author">
+		
+
+	<span class="person">
+<span class="person-name"><a href="/avtory/Sanberg-YUrij">Юрий Санберг</a></span></span>	</p>
+	</div>
+	
+    </div>
+</div>
+
+      
+	  
+
+</div><!-- /sect #best --> 
+
+<div id="searchbox">
+<form action="/content/advancedsearch">
+<input type="hidden" name="SearchPageLimit" value="5" />
+<img id="searchtitle" src="/design/russ/images/search.gif" width="71" height="28" border="0" alt="">
+<label for="searchtext" class="hide">Search text:</label>
+<input id="searchtext" name="SearchText" type="text" value="" size="12" />
+<!-- <input id="searchbutton" class="button" type="submit" value='Поиск' alt="Submit" /> -->
+<input id="searchbutton" class="button" type="image" src="/design/russ/images/go.gif" value='Поиск' alt='Поиск' width="28"  height="28">
+
+</form>
+</div>
+
+
+
+    
+	 
+    
+        <div class="content-view-children float-break" id="workbook">
+             
+
+
+                <div class="attribute-image">
+            
+
+    
+        
+    
+            <a href="http://www.svobodanews.ru/audio/broadcastprogram/619816.html">        <img src="/var/russ/storage/images/workbooks/aleksandr-morozov-v-efire-radio-svoboda/1319626-1-rus-RU/Aleksandr-Morozov-v-efire-Radio-Svoboda_articleimage.jpg" width="184" height="137"  style="border: 0px;" alt="" title="" />
+        </a>    
+    
+    
+            </div>
+        <div class="content-view-line">
+    <div class="class-article float-break">
+
+        <div class="attribute-short" align='center'>
+        <a href="http://www.svobodanews.ru/audio/broadcastprogram/619816.html">Александр Морозов в эфире &quot;Радио Свобода&quot;</a>    </div>
+    
+    </div>
+</div>
+                 </div>
+    
+
+
+
+
+    
+	 
+    
+        <div class="content-view-children float-break" id="book">
+             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Oscilogramma-perevodcheskoj-deyatel-nosti"><img src="/var/russ/storage/images/kniga-nedeli/oscilogramma-perevodcheskoj-deyatel-nosti/1319702-1-rus-RU/Oscilogramma-perevodcheskoj-deyatel-nosti_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Oscilogramma-perevodcheskoj-deyatel-nosti">
+
+
+<p>
+Способы нарисовать дрозда, комету и Фортуну
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Skazhi-kto-tvoj-drug"><img src="/var/russ/storage/images/kniga-nedeli/skazhi-kto-tvoj-drug/1319327-1-rus-RU/Skazhi-kto-tvoj-drug_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Skazhi-kto-tvoj-drug">
+
+
+<p>
+Скажи, кто твой друг
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Opera-dlya-otvoda-glaz"><img src="/var/russ/storage/images/kniga-nedeli/opera-dlya-otvoda-glaz/1319000-1-rus-RU/Opera-dlya-otvoda-glaz_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Opera-dlya-otvoda-glaz">
+
+
+<p>
+Вена: гаджет для всей Европы
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Igra-mirovymi-summami"><img src="/var/russ/storage/images/kniga-nedeli/igra-mirovymi-summami/1319011-1-rus-RU/Igra-mirovymi-summami_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Igra-mirovymi-summami">
+
+
+<p>
+Культурный поход новой политики
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Nablyudenie-za-ogniom-vnutri-sosuda"><img src="/var/russ/storage/images/kniga-nedeli/nablyudenie-za-ogniom-vnutri-sosuda/1318939-1-rus-RU/Nablyudenie-za-ogniom-vnutri-sosuda_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Nablyudenie-za-ogniom-vnutri-sosuda">
+
+
+<p>
+Беньямин вне створок страха
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Bestrepetnyj-hudozhnik-v-trepetnuyu-epohu"><img src="/var/russ/storage/images/kniga-nedeli/bestrepetnyj-hudozhnik-v-trepetnuyu-epohu/1318950-1-rus-RU/Bestrepetnyj-hudozhnik-v-trepetnuyu-epohu_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Bestrepetnyj-hudozhnik-v-trepetnuyu-epohu">
+
+
+<p>
+Ты сам свой высший суд и лучший заказчик
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Ocharovanie-prestizhnogo-znaniya"><img src="/var/russ/storage/images/kniga-nedeli/ocharovanie-prestizhnogo-znaniya/1318617-1-rus-RU/Ocharovanie-prestizhnogo-znaniya_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Ocharovanie-prestizhnogo-znaniya">
+
+
+<p>
+Сила речи, намагнитившая взгляд
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Mir-razbityj-na-fragmenty-bylogo-ya"><img src="/var/russ/storage/images/kniga-nedeli/mir-razbityj-na-fragmenty-bylogo-ya/1318628-1-rus-RU/Mir-razbityj-na-fragmenty-bylogo-ya_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Mir-razbityj-na-fragmenty-bylogo-ya">
+
+
+<p>
+Революция обедневших слов и вещей
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Blagaya-sen-lesov-nedobryh"><img src="/var/russ/storage/images/kniga-nedeli/blagaya-sen-lesov-nedobryh/1318447-1-rus-RU/Blagaya-sen-lesov-nedobryh_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Blagaya-sen-lesov-nedobryh">
+
+
+<p>
+Лес как материал и как материализация призраков
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/On-ne-dremlet-nash-zakon"><img src="/var/russ/storage/images/kniga-nedeli/on-ne-dremlet-nash-zakon/1317989-1-rus-RU/On-ne-dremlet-nash-zakon_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/On-ne-dremlet-nash-zakon">
+
+
+<p>
+Нецело-мудренное око политики
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Okno-smysla-v-mansarde-razuma"><img src="/var/russ/storage/images/kniga-nedeli/okno-smysla-v-mansarde-razuma/1317533-1-rus-RU/Okno-smysla-v-mansarde-razuma_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Okno-smysla-v-mansarde-razuma">
+
+
+<p>
+Снимок, выпрямляющий хребет философской речи
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Grammatika-obnazhennogo-syuzhetnogo-nerva"><img src="/var/russ/storage/images/kniga-nedeli/grammatika-obnazhennogo-syuzhetnogo-nerva/1317544-1-rus-RU/Grammatika-obnazhennogo-syuzhetnogo-nerva_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Grammatika-obnazhennogo-syuzhetnogo-nerva">
+
+
+<p>
+Широкий валик филологических сравнений
+</p>
+</a></div>	</div>
+</div>             
+
+<div class="content-view-line">
+	<div class="class-article float-break">
+					<div class="attribute-image">
+				<a href="/Kniga-nedeli/Mnogopolyarnaya-logistika-globalizacii"><img src="/var/russ/storage/images/kniga-nedeli/mnogopolyarnaya-logistika-globalizacii/1317555-1-rus-RU/Mnogopolyarnaya-logistika-globalizacii_articleimage.jpg" width="70" /></a>	</div>	
+	
+			
+		
+						
+	    <div class="attribute-short"><a href="/Kniga-nedeli/Mnogopolyarnaya-logistika-globalizacii">
+
+
+<p>
+Орбита ответственного сотрудничества
+</p>
+</a></div>	</div>
+</div>        </div>
+    	<div><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Frussmagazine&amp;width=190&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;height=415" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:190px; height:415px;" allowTransparency="true"></iframe></div>
+</div>
+      </div>
+    </div><!-- Right Column area: END -->
+  </div> <!-- Columns area: END -->  </div>
+<!-- Footer area: START -->
+  <div id="footer">
+  <table border="0" cellspacing="0" cellpadding="0">
+<tr valign=top>
+	<td width="450">
+<!--  -->
+    <address>
+         &copy; Содержание - Русский Журнал, 1997-2011. Наши координаты: <a href="mailte:info@russ.ru">info@russ.ru</a> Тел./факс:  +7 (495) 725-78-67 
+        </address>
+	</td>	
+	<td id="counters" align=right>
+<!-- counters -->
+
+<!-- <img src="/design/russ/images/rambler.gif" width="88" height="31" border="0" alt="">&nbsp;
+<img src="/design/russ/images/hotlog.gif" width="88" height="31" border="0" alt="">&nbsp;
+<img src="/design/russ/images/mailru.gif" width="38" height="31" border="0" alt="">
+ -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1247331-2");
+pageTracker._trackPageview();
+</script>
+
+<table width="" border="0" cellspacing="5" cellpadding="0" align=right>
+<tr>
+	<td align=right>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/stat/groups/fundgroup/' "+
+"target=_blank><img src='http://counter.yadro.ru/hit;groups/fundgroup/?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+
+
+<!--begin of Rambler's Top100 code -->
+<a href="http://top100.rambler.ru/top100/">
+<img src="http://counter.rambler.ru/top100.cnt?34120" alt="" width=1 height=1 border=0></a>
+<!--end of Top100 code-->
+
+<!-- Rambler's Top100 #-->
+<a href="http://top100.rambler.ru/top100/" target="_blank"><img src="/design/russ/images/rambler.gif" width=88 height=31 alt="Rambler's Top100"  border=0 hspace=1></a>
+<!-- Rambler's Top100 -->
+
+
+
+</td>
+</table>  
+
+
+	</td>
+</tr>
+</table>
+  </div>
+  <!-- Footer area: END -->
+  <!-- <a href="http://www.russ.ru/var/storage/meteoricquick.php">auks-overview</a> -->
+<!-- Complete page area: END -->
+<!-- cache_ttl: -1 -->
+
+
+
+</body>
+</html>
